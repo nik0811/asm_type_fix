@@ -13,7 +13,7 @@ sudo vi linux/posix_types.h
 sudo vi asm-generic/posix_types.h 
 sudo vi asm-generic/posix_types.h
 
-Above in each file if you finding,
+Above in each file if you are seeing,
 
 #include <asm/*>
 
